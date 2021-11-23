@@ -1,5 +1,8 @@
 _repo: Poems-of-Arthur-Hugh-Clough_66689
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66689-h/images/cover.jpg
 creator:
   author:
     agent_name: Clough, Arthur Hugh
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/343
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Hugh_Clough
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66689#Poems-of-Arthur-Hugh-Clough
 gutenberg_issued: '2021-11-07'
 identifiers:
   gutenberg: '66689'
